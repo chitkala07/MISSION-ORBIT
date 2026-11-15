@@ -1,4 +1,5 @@
-name: Deploy MISSION: ORBIT to GitHub Pages
+name: "Deploy MISSION: ORBIT to GitHub Pages"
+
 
 on:
   push:
