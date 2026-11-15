@@ -12,7 +12,7 @@ import {
   XCircle,
 } from 'lucide-react';
 import { useMission } from '../../context/MissionContext';
-import { DESTINATION_IMAGES } from '../../data/seedData';
+import { DESTINATION_IMAGES } from '../../assets/destinationImages';
 import { soundFx } from '../../utils/soundFx';
 import { AchievementBadge } from '../common/AchievementBadge';
 import { RadialGauge } from '../common/RadialGauge';

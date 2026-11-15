@@ -13,7 +13,7 @@ import {
   SunMedium,
 } from 'lucide-react';
 import { useMission } from '../../context/MissionContext';
-import { DESTINATION_IMAGES } from '../../data/seedData';
+import { DESTINATION_IMAGES } from '../../assets/destinationImages';
 import { HeroSpaceScene } from '../three/HeroSpaceScene';
 import { AchievementBadge } from '../common/AchievementBadge';
 

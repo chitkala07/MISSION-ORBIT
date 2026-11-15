@@ -14,7 +14,7 @@ import {
   X,
 } from 'lucide-react';
 import { useMission } from '../../context/MissionContext';
-import { DESTINATION_IMAGES } from '../../data/seedData';
+import { DESTINATION_IMAGES } from '../../assets/destinationImages';
 import type { ComponentCategory, DestinationId, DifficultyLevel, Mission } from '../../types/mission';
 import { soundFx } from '../../utils/soundFx';
 import { TooltipInfo } from '../common/TooltipInfo';

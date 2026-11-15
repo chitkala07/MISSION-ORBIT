@@ -9,7 +9,7 @@ import {
   Thermometer,
 } from 'lucide-react';
 import { useMission } from '../../context/MissionContext';
-import { DESTINATION_IMAGES } from '../../data/seedData';
+import { DESTINATION_IMAGES } from '../../assets/destinationImages';
 import { SolarSystemScene } from '../three/SolarSystemScene';
 import { TooltipInfo } from '../common/TooltipInfo';
 
