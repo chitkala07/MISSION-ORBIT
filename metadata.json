@@ -1,0 +1,6 @@
+{
+  "name": "MISSION: ORBIT",
+  "description": "Educational space mission design and simulation platform for exploring the solar system, designing spacecraft, validating engineering constraints, and running interactive mission simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
